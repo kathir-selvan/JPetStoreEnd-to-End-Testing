@@ -129,13 +129,6 @@ It allows users to browse products, add items to cart, and complete checkout.
 
 ---
 
-## 👥 Team Members
-
-- Umaamaheswari S
-- Ayesha J
-- Kathirselvan M
-
----
 
 ## 📄 Conclusion
 
